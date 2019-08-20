@@ -1,1 +1,37 @@
-hh
+html>
+	<head>
+		<title>tarea html</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=divice-width,user-scalable=no, initial-scale=1.0, minimun-scale=1.0">
+		<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+		<style type="text/css"></style>
+	</head>
+	<body>
+	<div class="container"> Looorem ipsum dolor sit amet, consectetur
+	adipisicing elit. Veritatis ipsum, corporis suscipit dolores
+	dolor! Molestiae perspiciatis quidem atque impedit quisquam.
+	</div>
+	<div class="important"> Lorem ipsum dolor sit amet, consectetur
+	adipisicing elit. Veritatis ipsum, corporis suscipit dolores
+	dolor! Molestiae perspiciatis quidem atque impedit quisquam.
+	</div>
+	<div class="veryimportant"> Lorem ipsum dolor sit amet,
+	consectetur adipisicing elit. Veritatis ipsum, corporis suscipit
+	dolores dolor! Molestiae perspiciatis quidem atque impedit
+	quisquam. </div>
+	<div class="veryimportant"> Lorem ipsum dolor sit amet,
+	consectetur adipisicing elit. Veritatis ipsum, corporis suscipit
+	dolores dolor! Molestiae perspiciatis quidem atque impedit
+	quisquam. </div>
+	<div class="veryimportant"> Lorem ipsum dolor sit amet,
+	consectetur adipisicing elit. Veritatis ipsum, corporis suscipit
+	dolores dolor! Molestiae perspiciatis quidem atque impedit
+	quisquam. </div>
+	<div class="veryimportant"> Lorem ipsum dolor sit amet,
+	consectetur adipisicing elit. Veritatis ipsum, corporis suscipit
+	dolores dolor! Molestiae perspiciatis quidem atque impedit
+	quisquam. </div>
+	<script type="bootstrap/js/jquery.js"></script>
+	<script type="bootstrap/css/bootstrap.min.js"></script>
+	</body>
+</html>
